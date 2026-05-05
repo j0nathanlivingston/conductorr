@@ -1,4 +1,4 @@
-# 🖐️🖐️ Hand-Arpeggiator
+# 🖐️🖐️ Conductor
 
 A webcam-based gestural arpeggiator in Python. Tracks **up to two hands**
 with MediaPipe, extracts 7 continuous features per hand, and maps any
